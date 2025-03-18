@@ -1,0 +1,9 @@
+selenium
+yt_dlp
+pillow
+opencv-python
+pyautogui
+pyttsx3
+speechrecognition
+fpdf
+webdriver_manager
